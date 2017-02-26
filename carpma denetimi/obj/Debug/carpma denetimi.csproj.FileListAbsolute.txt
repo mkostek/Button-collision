@@ -1,0 +1,8 @@
+C:\Users\musta\Documents\SharpDevelop Projects\carpma denetimi\carpma denetimi\obj\Debug\carpma denetimi.csprojResolveAssemblyReference.cache
+C:\Users\musta\Documents\SharpDevelop Projects\carpma denetimi\carpma denetimi\obj\Debug\carpma_denetimi.MainForm.resources
+C:\Users\musta\Documents\SharpDevelop Projects\carpma denetimi\carpma denetimi\obj\Debug\carpma denetimi.csproj.GenerateResource.Cache
+C:\Users\musta\Documents\SharpDevelop Projects\carpma denetimi\carpma denetimi\bin\Debug\carpma denetimi.exe.config
+C:\Users\musta\Documents\SharpDevelop Projects\carpma denetimi\carpma denetimi\bin\Debug\carpma denetimi.exe
+C:\Users\musta\Documents\SharpDevelop Projects\carpma denetimi\carpma denetimi\bin\Debug\carpma denetimi.pdb
+C:\Users\musta\Documents\SharpDevelop Projects\carpma denetimi\carpma denetimi\obj\Debug\carpma denetimi.exe
+C:\Users\musta\Documents\SharpDevelop Projects\carpma denetimi\carpma denetimi\obj\Debug\carpma denetimi.pdb
